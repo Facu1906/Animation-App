@@ -1,6 +1,6 @@
 # React
 
-## Animation-App
+## Animation-React-Transition-Group
 
 ### URL: https://golden-fairy-c8deee.netlify.app/
 
